@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 client = discord.Client()
-
+test
 @client.event
 async def on_ready():
     print('Logged in as')
